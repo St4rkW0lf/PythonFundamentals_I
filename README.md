@@ -16,6 +16,6 @@ Alguns dos tópicos abordados neste curso:
 Ao final, o participante estará apto a compreender os fundamentos da programação em Python, aplicando boas práticas e desenvolvendo scripts simples, com uma base sólida para avançar em ciência de dados, automação e desenvolvimento de software.
 
 📥 **Data inicial:** 20/10/2025
-📤 **Data final:** -
+📤 **Data final:** 06/11/2025
 
 🌐 [Página do Curso](https://www.netacad.com/courses/python-essentials-1?courseLang=pt-BR&instance_id=b54de7dd-dfd8-4655-aee1-d470f2ad274e)
